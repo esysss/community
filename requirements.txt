@@ -3,7 +3,7 @@ jupyterlab==1.0.2
 matplotlib==3.0.2
 networkx==2.2
 numpy==1.17.2
-Pillow==6.2.1
+Pillow==8.1.1
 python-louvain==0.13
 scikit-fuzzy==0.4.1
 scikit-image==0.16.2
