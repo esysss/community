@@ -2,7 +2,7 @@ joblib==0.13.2
 jupyterlab==1.0.2
 matplotlib==3.0.2
 networkx==2.2
-numpy==1.17.2
+numpy==1.22.0
 Pillow==6.2.1
 python-louvain==0.13
 scikit-fuzzy==0.4.1
